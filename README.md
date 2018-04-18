@@ -1,3 +1,3 @@
 # InterviewFresher
 
-# 1 Mạng máy tính
+# 1. Mạng máy tính
